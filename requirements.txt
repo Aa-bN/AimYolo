@@ -1,0 +1,28 @@
+# AimYolo requirements
+# The version restrictions of other libraries are not strict, except for the libraries related to PyTorch.
+
+# Part1: YOLOv5 2.0 and PyTorch-----------------------------------------------------------------------
+apex==0.9.10dev
+coremltools==6.1
+matplotlib==3.5.1
+numpy==1.21.5
+onnx==1.13.0
+opencv_python==4.5.5.64
+Pillow==9.4.0
+pycocotools==2.0.6
+PyYAML==6.0
+scipy==1.8.0
+thop==0.1.1.post2209072238
+torch==1.5.1
+torchvision==0.6.1
+tqdm==4.64.0
+
+# Part2: Refer to z_captureScreen.py, z_ctypes.py and z_detect5.py for more details.------------------
+
+# Capture Screen----------------------------------------------------------------------------------------
+mss==6.1.0
+
+# Move Mouse------------------------------------------------------------------------------------------
+# pynput==1.7.6
+pywin32==304	# import win32con	# import win32api
+
