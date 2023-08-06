@@ -8,6 +8,10 @@ https://e-cho.top/2023/01/30/2.aimyolo/
 https://wsblog.netlify.app/2023/01/30/2.aimyolo/
 
 ---
+## 效果图
+![image](https://e-cho.top/2023/01/30/2.aimyolo/)
+
+---
 ## 内容更新
 2023.4.8：更新了requirements.txt中的内容，将pynput前的注释符号删掉。
 
