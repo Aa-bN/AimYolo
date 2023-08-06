@@ -9,7 +9,7 @@ https://wsblog.netlify.app/2023/01/30/2.aimyolo/
 
 ---
 ## 效果图
-![image](https://e-cho.top/2023/01/30/2.aimyolo/)
+![image](https://e-cho.top/2023/01/30/2.aimyolo/#lg=1&slide=12)
 
 ---
 ## 内容更新
